@@ -1,6 +1,5 @@
-# Rialo Guard Desk v0.4 — Showcase Edition
+# Rialo Guard Desk v2 — Showcase Edition
 
-This is a frontend-only demo built for presentations. It starts on a cinematic public landing page and then enters the product workspace.
 
 ## What changed
 
