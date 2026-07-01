@@ -1,4 +1,4 @@
-# Rialo Guard Desk v0.4 — Secure Wallet & Agent Control Plane
+# Rialo Guard Desk — Secure Wallet & Agent Control Plane
 
 Rialo Guard Desk is a unified operating layer for personal wallets, team treasury workflows, and AI-agent permissions on Rialo.
 
